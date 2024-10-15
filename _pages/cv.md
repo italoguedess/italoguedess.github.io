@@ -18,7 +18,7 @@ Work experience
 ======
 * Ericsson Research: Undergraduate researcher -- 2023 - 2024
   * Wireless Communication Research Group (GTEL)
-  * Duties includes: Techonologies development for Cell-free ISAC Networks
+  * Duties include: technology development for Cell-free ISAC Networks
   * Supervisor: Prof. Dr. Gabor Fodor (KTH, Sweden) / Prof. Dr. Walter da Cruz Freitas (UFC, Brazil)  
 
 * Laboratório de Engenharia de Sistemas de Computação (LESC): Undergraduate voluntieer -- 2022 - 2023
@@ -33,9 +33,9 @@ Work experience
   
 Prizes
 ======
-* Best Paper Award in the “Telecommunications” category at the Workshop on Communication Networks and Power Systems 2023 (WCNPS'23), Workshop on Communication Networks and Power Systems. -- 2023
+* Best Paper Award in the Telecommunications category at the Workshop on Communication Networks and Power Systems 2023 (WCNPS'23), Workshop on Communication Networks and Power Systems. -- 2023
 * Bronze medal in the 3rd Elon Lages Lima Competition, Brazilian Mathematical Society (SBM). -- 2022
-* Honorable mention at the 2nd Elon Lages LIma Competition, Brazilian Mathematical Society (SBM). -- 2021
+* Honorable mention at the 2nd Elon Lages Lima Competition, Brazilian Mathematical Society (SBM). -- 2021
 * Honorable mention at the Kangaroo Math Olympics, Association Kangourou sans Frontières. -- 2019
 * Silver medal in the Brazilian Astronomy and Astronautics Olympiad (OBA), UFSCar. -- 2018
 * Gold medal in the Brazilian Geography Olympiad (OBG), Unifal. -- 2018
@@ -43,25 +43,25 @@ Prizes
 
 Skills
 ======
-* Techinical/Scientific Writting
+* Technical/Scientific Writing
   * LaTeX
   * Markdown
-* Scientific programming
+* Scientific Programming
   * Matlab/Octave Simulink
   * Python
   * Julia
   * C/C++
 * Monte-Carlo Simulations
 * B5G Systems
-* Optimization Tecniques
-  * Meta-heristic Optimization
+* Optimization Techniques
+  * Meta-heuristic Optimization
   * Convex Optimization
 * Artificial Inteligence
   * Machine Learning basics
   * Deep Learning basics
     * Tensorflow
     * PyTorch 
-* Eletronic Basics
+* Electronic Basics
   * ESP32
   * FreeRTOS
   * Arduino
