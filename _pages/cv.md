@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -31,6 +31,16 @@ Work experience
   * Duties included: Study and present state-of-the-art technologies about Cell-free networks
   * Supervisor: Prof. Dr.-Ing. Yuri Carvalho Barbosa Silva (UFC, Brazil)
   
+Prizes
+======
+* Best Paper Award in the “Telecommunications” category at the Workshop on Communication Networks and Power Systems 2023 (WCNPS'23), Workshop on Communication Networks and Power Systems. -- 2023
+* Bronze medal in the 3rd Elon Lages Lima Competition, Brazilian Mathematical Society (SBM). -- 2022
+* Honorable mention at the 2nd Elon Lages LIma Competition, Brazilian Mathematical Society (SBM). -- 2021
+* Honorable mention at the Kangaroo Math Olympics, Association Kangourou sans Frontières. -- 2019
+* Silver medal in the Brazilian Astronomy and Astronautics Olympiad (OBA), UFSCar. -- 2018
+* Gold medal in the Brazilian Geography Olympiad (OBG), Unifal. -- 2018
+
+
 Skills
 ======
 * Techinical/Scientific Writting
@@ -58,24 +68,42 @@ Skills
 * Signal Processing
 * Error Correction codes
 
+
+Languages
+======
+* Portuguese -- Native
+* English -- Intermediate
+* French -- Intermediate
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+
+<!--
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
+-->
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+
+Refereces
+======
+* Prof. Dr.-Ing. [Tarcisio Ferreira Maciel](http://tfmaciel.github.io/)
+* Dr. [Roberto Pinto Antonioli](https://www.linkedin.com/in/roberto-antonioli-948887b9/?originalSubdomain=br)
+
+
+
 <!--
 Service and leadership
 ======
