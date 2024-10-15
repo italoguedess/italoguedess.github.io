@@ -8,7 +8,7 @@ date: 2023-10-11
 location: "Fortaleza, Brazil"
 ---
 
-A short course (2 hours) to introduce the tools for machine learning in Python (NumPy, Pandas, Scikit-Learn).
+A short course (2 hours) will introduce the tools for machine learning in Python (NumPy, Pandas, Scikit-Learn).
 
 Course Material
 ======
