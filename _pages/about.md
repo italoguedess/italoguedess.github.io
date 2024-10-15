@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Carrier Resume"
+title: "Career summary"
 author_profile: true
 redirect_from: 
   - /about/
