@@ -18,5 +18,10 @@ var addressPoints = [
     "Los Angeles, CA",
     34.0543942,
     -118.2439408
+  ],
+  [
+    "Caen, Nromandie",
+    49.183333, 
+    -0.350000
   ]
 ];

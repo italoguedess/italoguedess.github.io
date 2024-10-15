@@ -11,35 +11,52 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Génie Physique et Système Embarqués - major SATE , Ensicaen, 2024 - Present
+* B.S. in Telecommunication Engineering , 2021 - Present
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Ericsson Research: Undergraduate researcher -- 2023 - 2024
+  * Wireless Communication Research Group (GTEL)
+  * Duties includes: Techonologies development for Cell-free ISAC Networks
+  * Supervisor: Prof. Dr. Gabor Fodor (KTH, Sweden) / Prof. Dr. Walter da Cruz Freitas (UFC, Brazil)  
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Laboratório de Engenharia de Sistemas de Computação (LESC): Undergraduate voluntieer -- 2022 - 2023
+  * Universidade Federal do Ceará
+  * Duties included: Firmware development for an educational nanosatellite
+  * Supervisor:  Prof. Dr. Jarbas Aryel Nunes da Silveira (UFC, Brazil)
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Wireless Communication Research Group: Scientific initiation student -- 2021 - 2024
+  * Universidade Federal do Ceará
+  * Duties included: Study and present state-of-the-art technologies about Cell-free networks
+  * Supervisor: Prof. Dr.-Ing. Yuri Carvalho Barbosa Silva (UFC, Brazil)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Techinical/Scientific Writting
+  * LaTeX
+  * Markdown
+* Scientific programming
+  * Matlab/Octave Simulink
+  * Python
+  * Julia
+  * C/C++
+* Monte-Carlo Simulations
+* B5G Systems
+* Optimization Tecniques
+  * Meta-heristic Optimization
+  * Convex Optimization
+* Artificial Inteligence
+  * Machine Learning basics
+  * Deep Learning basics
+    * Tensorflow
+    * PyTorch 
+* Eletronic Basics
+  * ESP32
+  * FreeRTOS
+  * Arduino
+* Signal Processing
+* Error Correction codes
 
 Publications
 ======
@@ -59,6 +76,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+<!--
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
