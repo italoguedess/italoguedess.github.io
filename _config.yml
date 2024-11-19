@@ -24,7 +24,7 @@ author:
   avatar           : "profile.jpeg"
   name             : "Francisco Italo Guedes Carvalho"
   pronouns         : # example: "she/her"  
-  bio              : "Bachelor in Telecommunication Engineering at Federal University of Ceará (UFC), in exchange at the National Graduate School of Engineering of Caen (ENSICAEN), course Physical Engineering and Embedded systems"
+  bio              : "Bachelor in Telecommunication Engineering at Federal University of Ceará (UFC), in exchange at the National Graduate School of Engineering of Caen (ENSICAEN), studying Physical Engineering and Embedded systems."
   location         : "Caen, France"
   employer         : "ENSICAEN"
   uri              : # URL
@@ -80,7 +80,7 @@ publication_category:
   manuscripts:
     title: 'Journal Articles'    
   conferences:
-    title: 'Conference Works'
+    title: 'Research Works'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -212,7 +212,7 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
