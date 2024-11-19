@@ -21,7 +21,7 @@ repository               : "italoguedess/italoguedess.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   name             : "Francisco Italo Guedes Carvalho"
   pronouns         : # example: "she/her"  
   bio              : "Bachelor in Telecommunication Engineering at Federal University of Ceará (UFC), in exchange at the National Graduate School of Engineering of Caen (ENSICAEN), course Physical Engineering and Embedded systems"
