@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Igor Braga Palhano"
+title                    : "Francisco Italo Guedes Carvalho"
 title_separator          : "-"
-name                     : &name "Igor Braga Palhano"
+name                     : &name "Francisco Italo Guedes Carvalho"
 description              : &description "personal description"
-url                      : https://bpalhano.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://italoguedess.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "BPalhano/bpalhano.github.io"
+repository               : "italoguedess/italoguedess.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,28 +22,28 @@ repository               : "BPalhano/bpalhano.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Igor Braga Palhano"
+  name             : "Francisco Italo Guedes Carvalho"
   pronouns         : # example: "she/her"  
-  bio              : "Bachelor in Telecommunication Engineering at Federal University of Ceará (UFC), studying in a broad génie physique et systèmes embarqués - major SATE at Ensicaen"
+  bio              : "Bachelor in Telecommunication Engineering at Federal University of Ceará (UFC), in exchange at the National Graduate School of Engineering of Caen (ENSICAEN), course Physical Engineering and Embedded systems"
   location         : "Caen, France"
-  employer         : "Ensicaen"
+  employer         : "ENSICAEN"
   uri              : # URL
-  email            : "igor.braga-palhano@ecole.ensicaen.fr" 
+  email            : "italo.guedes@ecole.ensicaen.fr"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=kWYVL0cAAAAJ&hl=pt-BR"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0002-8973-6027"
+  orcid            : "https://orcid.org/0009-0009-2033-9902"
   semantic         : # URL
   pubmed           : # URL
-  researchgate     : "https://www.researchgate.net/profile/Igor-Palhano"
+  researchgate     : # "https://www.researchgate.net/profile/Igor-Palhano"
   
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "BPalhano"
+  github           : "italoguedess"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "igorpalhano" # Username
+  linkedin         : "francisco-italo-guedes-carvalho" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
