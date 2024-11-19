@@ -6,7 +6,7 @@ permalink: /publication/sbrt2024GA
 excerpt: 'Integrated Access and backhaul, base station deployment, evolutionary algorithms, spectral efficiency'
 date: 2024-12-14
 venue: 'Simpósio Brasileiro de Telecomunicações e Processamento de Sinais'
-paperurl: '10.14209/sbrt.2024.1571036510'
+paperurl: 'https://biblioteca.sbrt.org.br/articles/4681'
 citation: ''
 ---
 

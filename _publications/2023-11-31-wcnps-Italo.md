@@ -3,7 +3,7 @@ title: "Genetic Algorithm for Base Station Placement in Integrated Access and Ba
 collection: publications
 category: conferences
 permalink: /publication/WCNPS2023GA
-excerpt: 'Integrated Access Backhaul, Genetic Algorithms, Fifith Generation, Base Station Deployment'
+excerpt: 'Integrated Access Backhaul, Genetic Algorithms, Fifth Generation, Base Station Deployment'
 date: 2023-11-31
 venue: 'Workshop on Communication Networks and Power Systems'
 paperurl: 'https://ieeexplore.ieee.org/document/10344585'
