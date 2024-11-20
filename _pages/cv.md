@@ -16,9 +16,9 @@ Education
 
 Work experience
 ======
-* Ericsson Research: Undergraduate researcher -- 2023 - 2024
+* Ericsson Research: Undergraduate researcher -- 2022 - 2024
   * Wireless Communication Research Group (GTEL)
-  * Duties include: technology development for Cell-free ISAC Networks
+  * Duties include: Optimization and analysis of Integrated Access and Backhaul Networks
   * Supervisor: Dr. Behrooz Makki (Ericsson, Sweden) / Prof. Dr. Victor Farias Monteiro (UFC, Brazil)
 
 * Wireless Communication Research Group: Scientific initiation student -- 2021 - 2024
